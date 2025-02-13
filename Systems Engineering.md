@@ -1,0 +1,1 @@
+"Systems engineering is an interdisciplinary field of engineering and engineering management that focuses on how to design, integrate, and manage complex systems over their life cycles" ("Systems engineering," 2025, para. 1).

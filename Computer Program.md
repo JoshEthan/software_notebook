@@ -1,0 +1,1 @@
+"A computer program is a sequence or set of instructions in a programming language for a computer to execute. It is one component of [[Software|software]], which also includes [[documentation]] and other intangible components" ("Computer program," 2025, para. 1).

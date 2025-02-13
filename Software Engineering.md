@@ -1,0 +1,1 @@
+"Software engineering is a field within computer science focused on designing, developing, testing, and maintaining of [[Application Software|software applications]]" ("Software engineering," 2025, para. 17).

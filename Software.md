@@ -1,0 +1,1 @@
+"Software consists of [[Computer Program|computer programs]] that instruct the execution of a computer. Software also includes design [[documents]] and [[specifications]]. " ("Software," 2025, para. 1).
