@@ -1,6 +1,11 @@
 "It's a [[Singular Need|specific thing]] your [[System or Software System|system]] has to do to work correctly. A requirement is usually a [[Singular Need|single thing]], and you can **test** that thing to make sure you've actually fulfilled the requirement. A requirement is a [[singular need]] detailing what a particular [[product]] or [[service]] should **be** or **do**. It is most commonly used in a formal sense in [[systems engineering]] or [[software engineering]]" (McLaughlin, 2007, p. 62).
 
 
+What does it mean to be testable?
+
+Requirement is something your system has to do.
+Requirement is something you can test.
+Is a single detail of a product or service.
 
 
 
