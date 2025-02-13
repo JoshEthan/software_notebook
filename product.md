@@ -1,0 +1,2 @@
+Product: A deliverable (a tangible good or service produced as a result of a project that is intended to be delivered to the customer) that contributes to the solution.
+- A good or service created as a result of a project that contributes to the solution

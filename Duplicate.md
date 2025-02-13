@@ -1,0 +1,1 @@
+"This is one type of code you don't want to write" (McLaughlin, 2007, p. 51).

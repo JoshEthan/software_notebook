@@ -1,0 +1,1 @@
+"Objects in loosely coupled [[Application Software]] are more reusable than tightly coupled ones." (McLaughlin, 2007, p. 51).

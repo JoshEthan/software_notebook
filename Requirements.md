@@ -1,11 +1,42 @@
 "It's a [[Singular Need|specific thing]] your [[System or Software System|system]] has to do to work correctly. A requirement is usually a [[Singular Need|single thing]], and you can **test** that thing to make sure you've actually fulfilled the requirement. A requirement is a [[singular need]] detailing what a particular [[product]] or [[service]] should **be** or **do**. It is most commonly used in a formal sense in [[systems engineering]] or [[software engineering]]" (McLaughlin, 2007, p. 62).
 
 
-What does it mean to be testable?
+**Requirements are just a means to an end. The end? It's Great Software.
 
-Requirement is something your system has to do.
-Requirement is something you can test.
-Is a single detail of a product or service.
+# What is a Requirement?
+A requirement is a singular testable need that describes an action or process of the system.
+
+# What are examples of a Requirement?
+- The dog door opening must be at least 12" tall.
+- A button on the remote control opens the dog door if the door is closed, and closes the god door if the door is open.
+- Once the dog door has opened, it should close automatically if the door isn't already closed.
+
+- The system must allow users to log in using a username and password.
+- The software should enable users to search for products by name or category.
+- The system should be able to generate sales reports for a specified date range.
+
+# How do I know if my need is singular and not plural?
+
+# How do I know if my need is testable?
+
+# What is the best way to get good Requirements?
+"... Begin by finding out what your customer wants and expects, and what they think the system you're building for them should do. ... So you've got to anticipate what might go wrong, and add requirements to take care of those problems as well. A good set of requirements goes beyond just what your customers tell you, and makes sure that the system works, even in unusual or unexpected circumstances. ...The best way to get good requirements is to understand what a [[System or Software System|system]] is supposed to do" (McLaughlin, 2007, p. 67).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
