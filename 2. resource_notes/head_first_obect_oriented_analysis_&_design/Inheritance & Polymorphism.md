@@ -33,3 +33,29 @@
 
 ## Polymorphism allows apps to be more flexible.
 "Polymorphism allows your applications to be more flexible, and less resistant to change." (pg. 586)
+
+## Links
+[[Inheritance & Polymorphism#Inheritance is when one class inherits behavior from another class.|Inheritance is when one class inherits behavior from another class.]]
+
+[[Inheritance & Polymorphism#superclass is the parent class; subclass is the child; overriding is altering the inherited methods|superclass is the parent class; subclass is the child; overriding is altering the inherited methods]]
+
+[[Inheritance & Polymorphism#Inheritance helps us avoid duplicating code.|Inheritance helps us avoid duplicating code]]
+
+[[Inheritance & Polymorphism#Polymorphism lets us use subclasses in place of superclasses|Polymorphism lets us use subclasses in place of superclasses]]
+
+[[Inheritance & Polymorphism#superclass foo = superclass OR subclass bar|superclass foo = superclass OR subclass bar]]
+
+[[Inheritance & Polymorphism#Polymorphism code is flexible and easy to change|Polymorphism code is flexible and easy to change]]
+
+[[Inheritance & Polymorphism#Inheritance is when a class extends another classes behavior to avoid duplicate code|Inheritance is when a class extends another classes behavior to avoid duplicate code]]
+
+[[Inheritance & Polymorphism#The class being inherited is the superclass; the class inheriting is the subclass|The class being inherited is the superclass; the class inheriting is the subclass]]
+
+[[Inheritance & Polymorphism#A subclass gets all of the behavior of the superclass|A subclass gets all of the behavior of the superclasss]]
+
+[[Inheritance & Polymorphism#A subclass can override superclass's methods|A subclass can override superclass's methods]]
+
+[[Inheritance & Polymorphism#Polymorphism is using a subclass in place of a superclass|Polymorphism is using a subclass in place of a superclass]]
+
+[[Inheritance & Polymorphism#Polymorphism allows apps to be more flexible.|Polymorphism allows apps to be more flexible.]]
+

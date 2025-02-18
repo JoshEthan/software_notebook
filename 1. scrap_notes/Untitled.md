@@ -1,17 +1,23 @@
-Encapsulation is the act of <mark style="background: #FF5582A6;">hiding</mark>, limiting, or protecting you <mark style="background: #BBFABBA6;">data</mark> from being <mark style="background: #FFF3A3A6;">misused</mark>.
+Inheritance is when one class inherits <mark style="background: #FF5582A6;">behavior</mark> from another class.
 
-Encapsulation, information <mark style="background: #FF5582A6;">hiding</mark>, or <mark style="background: #FF5582A6;">separation</mark> of concerns, puts <mark style="background: #BBFABBA6;">elements</mark> into abstracted entities.
+<mark style="background: #FFB86CA6;">superclass</mark> is the parent class; subclass is the child; <mark style="background: #BBFABBA6;">overriding</mark> is altering the inherited <mark style="background: #FF5582A6;">methods</mark>
 
-Use methods to responsibly <mark style="background: #FFF3A3A6;">update</mark> <mark style="background: #FFB86CA6;">private variables</mark>.
+Inheritance helps us avoid <mark style="background: #FFF3A3A6;">duplicating code</mark>
 
-You can also encapsulate a <mark style="background: #BBFABBA6;">group of properties</mark> so they don't get <mark style="background: #FFF3A3A6;">misused</mark>.
+Polymorphism lets us use subclasses in place of <mark style="background: #FFB86CA6;">superclasses</mark>
 
-Encapsulation can also <mark style="background: #FF5582A6;">separate</mark> <mark style="background: #BBFABBA6;">behavior</mark> from others parts of your code.
+<mark style="background: #FFB86CA6;">superclass</mark> foo = superclass OR subclass bar
 
-Encapsulation controls <mark style="background: #FF5582A6;">separated</mark> <mark style="background: #BBFABBA6;">data and behavior</mark>.
+Polymorphism code is <mark style="background: #ADCCFFA6;">flexible</mark> and easy to change
 
-Encapsulation is when you <mark style="background: #FF5582A6;">separate</mark> or <mark style="background: #FF5582A6;">hide</mark> part of your code from the rest of the code.
+Inheritance is when a class extends another classes <mark style="background: #FF5582A6;">behavior</mark> to avoid <mark style="background: #FFF3A3A6;">duplicate code</mark>
 
-The simplest form is when you make <mark style="background: #FFB86CA6;">variables private</mark>, and only expose them via methods.
+The class being inherited is the <mark style="background: #FFB86CA6;">superclass</mark>; the class inheriting is the subclass
 
-You can encapsulate <mark style="background: #BBFABBA6;">groups of data or behavior</mark> to control how they are <mark style="background: #FFF3A3A6;">used</mark>.
+A subclass gets all of the <mark style="background: #FF5582A6;">behavior</mark> of the <mark style="background: #FFB86CA6;">superclass</mark>
+
+A subclass can <mark style="background: #BBFABBA6;">override</mark> <mark style="background: #FFB86CA6;">superclass</mark>'s <mark style="background: #FF5582A6;">methods</mark>
+
+Polymorphism is using a subclass in place of a <mark style="background: #FFB86CA6;">superclass</mark>
+
+Polymorphism allows apps to be more <mark style="background: #ADCCFFA6;">flexible</mark>.
