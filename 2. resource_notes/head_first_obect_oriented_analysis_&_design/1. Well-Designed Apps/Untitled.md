@@ -106,22 +106,22 @@
 
 "This is ALL OOA&D! It's not about doing silly diagrams... it's about writing killer applications that leave your customer happy, and you feeling like you've kicked major ass." (pg. 49)
 
-"It takes very little for something to go wrong with an application that is fragile."
+"It takes very little for something to go wrong with an application that is fragile." (pg. 50)
 
-"You can use OO principles like encapsulation and delegation to build applications that are flexible."
+"You can use OO principles like encapsulation and delegation to build applications that are flexible." (pg. 50)
 
-"Encapsulation is breaking your application up into logical parts."
+"Encapsulation is breaking your application up into logical parts." (pg. 50)
 
-"Delegation is giving another object the responsibility of handling a particular task."
+"Delegation is giving another object the responsibility of handling a particular task." (pg. 50)
 
-"Always begin a project by figuring out what the customer wants."
+"Always begin a project by figuring out what the customer wants." (pg. 50)
 
-"Once you've got the basic functionality of an app in place, work on refining the design so it's flexible."
+"Once you've got the basic functionality of an app in place, work on refining the design so it's flexible." (pg. 50)
 
-"With a functional and flexible design, you can employ design patterns to improve your design further and make your app easier to reuse."
+"With a functional and flexible design, you can employ design patterns to improve your design further and make your app easier to reuse." (pg. 50)
 
-"Find the parts of your application that change often, and try and separate them from the parts of your application that don't change."
+"Find the parts of your application that change often, and try and separate them from the parts of your application that don't change." (pg. 50)
 
-"Building an application that works well but is poorly designed satisfies the customer but will leave you with pain, suffering, and lots of late nights fixing problems."
+"Building an application that works well but is poorly designed satisfies the customer but will leave you with pain, suffering, and lots of late nights fixing problems." (pg. 50)
 
-"Object oriented analysis and design (OOA&D) provides a way to produce well-designed applications that satisfy both the customer and the programmer."
+"Object oriented analysis and design (OOA&D) provides a way to produce well-designed applications that satisfy both the customer and the programmer." (pg. 50)
