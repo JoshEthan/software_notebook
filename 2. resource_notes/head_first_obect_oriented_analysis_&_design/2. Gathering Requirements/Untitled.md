@@ -123,12 +123,34 @@
 
 "Be careful! Good use cases make for good requirements, but a bad- or incomplete use case can result in BAD requirements!" (pg. 104)
 
-"Good requirements ensure your system works like your customers expect."
+"Good requirements ensure your system works like your customers expect." (pg. 106)
 
-"Make sure your requirements cover all the steps in the use cases for your system."
+"Make sure your requirements cover all the steps in the use cases for your system." (pg. 106)
 
-"Use your use cases to find out about things your customers forgot to tell you."
+"Use your use cases to find out about things your customers forgot to tell you." (pg. 106)
 
-"Your use cases will reveal any incomplete or missing requirements that you might have to add to your system."
+"Your use cases will reveal any incomplete or missing requirements that you might have to add to your system." (pg. 106)
 
-"Requirements are things your system must do to work correctly."
+"Requirements are things your system must do to work correctly." (pg. 106)
+
+"Your initial requirements usually come from your customer." (pg. 106)
+
+"To make sure you have a good set of requirements, you should develop use cases for your system." (pg. 106)
+
+"Use cases detail exactly what your system should do." (pg. 106)
+
+"A use case has a single goal, but can have multiple paths to reach that goal." (pg. 106)
+
+"A good use case has a starting and stopping condition, and external initiator, and clear value to the user." (pg. 106)
+
+"A use case is simply a story about how your system works." (pg. 106)
+
+"You will have at least one use case for each goal that you system must accomplish." (pg. 106)
+
+"After your use cases are complete, you can refine and add to your requirements." (pg. 106)
+
+"A requirements list that makes all your use cases possible is a good set of requirements." (pg. 106)
+
+"Your system must work in the real world, not just when everything goes as you expect it to." (pg. 106)
+
+"When things go wrong, your system must have alternate paths to reach the system's goals." (pg. 106)
