@@ -48,18 +48,18 @@
 
 "Encapsulate what varies." (pg. 142)
 
-"Requirements will always change as a project progresses."
+"Requirements will always change as a project progresses." (pg. 142)
 
-"When requirements change, your system has to evolve to handle the new requirements."
+"When requirements change, your system has to evolve to handle the new requirements." (pg. 142)
 
-"When your system needs to work in a new or different way, begin by updating your use case."
+"When your system needs to work in a new or different way, begin by updating your use case." (pg. 142)
 
-"A scenario is a single path through a use case, from start to finish."
+"A scenario is a single path through a use case, from start to finish." (pg. 142)
 
-"A single use case can have multiple scenarios, as long as each scenario has the same customer goal."
+"A single use case can have multiple scenarios, as long as each scenario has the same customer goal." (pg. 142)
 
-"Alternate paths can be steps that occur only some of the time, or provide completely different paths through parts of a use case."
+"Alternate paths can be steps that occur only some of the time, or provide completely different paths through parts of a use case." (pg. 142)
 
-"If a step is optional in how a system works, or a step provides an alternate path through a system, use numbered sub steps like 3.1, 4.1, and 5.1, or 2.1.1, 2.2.1, and 2.3.1."
+"If a step is optional in how a system works, or a step provides an alternate path through a system, use numbered sub steps like 3.1, 4.1, and 5.1, or 2.1.1, 2.2.1, and 2.3.1." (pg. 142)
 
-"You should almost always try to avoid duplicate code. It's a maintenance nightmare, and usually points to problems in how you've designed your system."
+"You should almost always try to avoid duplicate code. It's a maintenance nightmare, and usually points to problems in how you've designed your system." (pg. 142)
