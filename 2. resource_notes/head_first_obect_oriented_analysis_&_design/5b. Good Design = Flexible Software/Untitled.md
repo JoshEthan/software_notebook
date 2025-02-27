@@ -65,3 +65,15 @@
 "If you've done both of these things, it may just be time to move on... to the next project." (pg. 275)
 
 "Well-designed software is easy to change and extend." (pg. 276)
+
+"Use basic OO principles like encapsulation and inheritance to make your software more flexible." (pg. 276)
+
+"If a design isn't flexible, then CHANGE IT! Never settle on bad design, even if it's your bad design that has to change." (pg. 276)
+
+"Make sure each of your classes is cohesive: each of your classes should focus on doing ONE THING really well." (pg. 276)
+
+"Always strive for higher cohesion as you move through your software's design life cycle." (pg. 276)
+
+"The goal of good design is highly cohesive, loosely coupled software." (pg. 276)
+
+"Classes are about behavior and functionality." (pg. 276)
