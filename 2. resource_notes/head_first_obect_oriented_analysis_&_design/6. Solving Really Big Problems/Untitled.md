@@ -98,4 +98,69 @@ I DON'T AGREE WITH INTERCHANGEABLE TERMS. IT CAUSES CONFUSION AND IS REDUNDANT.
 
 "Domain analysis lets you check you designs, and still speak the customer's language." (pg. 306)
 
-"These"
+"These features are using terms that the customer understands." (pg. 307)
+
+"This whole feature list is a form of analysis." (pg. 307)
+
+"Domain Analysis is the process of identifying, collecting, organizing, and representing the relevant information of a domain, based upon the study of existing systems and their development histories, knowledge captured from domain experts, underlying theory, and emerging technology within a domain." (pg. 307)
+
+"We're giving the customer our feature list in a language the customer understands." (pg. 308)
+
+"With the customer onboard, and a nice completed set of blueprints, you're ready to start breaking up your big problem into different pieces of functionality- and then you can use what you've learned already to tackle each of those pieces of functionality, one at a time." (pg. 309)
+
+"It's time to break up our big problem into lots of smaller pieces of functionality." (pg. 310)
+
+"You need to address all the features in the system as well as the functionality load out in your use case diagram." (pg. 310)
+
+"What you need to worry about is that you've covered all the features and use cases with your design, and that it makes sense... you don't want a module to have just one class in it, or one that will have one or two hundred." (pg. 312)
+
+"Domain analysis helps you avoid building parts of a system that aren't your job to build." (pg. 313)
+
+"Design patterns help us structure our own application in ways that are easier to understand, more maintainable and flexible." (pg. 315)
+
+"Design patterns don't go directly in your code, they first go into your BRAIN. A design pattern is just a way to design the solution for a particular type of problem. Once you've loaded your brain with a good working knowledge of patterns, you can then start to apply them to your new designs, and rework your old code when you find it's degrading into an inflexible mess of jungle spaghetti code." (pg. 315)
+
+THIS IS WHY WE ARE READING THAT GAME PROGRAMMING BOOK ^^^
+
+"Design patterns are one of the last steps of design.-- Design patterns help you take those last steps of design- once you've used OO principles like encapsulation and delegation to make your software flexible, a well-chosen design pattern can add just that extra bit of flexibility to your design, and save you some time, too" (pg. 316)
+
+"Remember, the whole point of all this was to get a handle on how to deal with really large applications that involve a lot more than some basic design and programming." (pg. 317)
+
+"
+1. We listened to the customer-- We started out with this rather vague, far-reaching vision statement. Now that's a BIG problem.
+2. We made sure we understood the system.-- Done by using domain analysis
+3. We drew up blueprints for the system we're building.-- Once we knew what we were building, we created a use case diagram to help us understand the big picture.
+4. We broke the big problem into smaller pieces.-- With a blueprint and feature list, we can break up a big app into lots of smaller pieces of individual functionality.
+5. We apply design patterns to help us solve the smaller problems." (pg. 319)
+
+"Turn a BIG PROBLEM into a bunch of smaller problems that you already know how to solve." (pg. 319)
+
+"Listen to the customer, and figure out what they want you to build." (pg. 320)
+
+"Put together a feature list, in language the customer understands." (pg. 320)
+
+"Make sure you features are what the customer actually wants." (pg. 320)
+
+"Create blueprints of the system using use case diagrams (and use cases)." (pg. 320)
+ 
+"Break the big system up into lots of smaller sections." (pg. 320)
+
+"Apply design patterns to the smaller sections of the system." (pg. 320)
+
+"Use basic OOA&D principles to design and code each smaller section." (pg. 320)
+
+"The best way to look at a big problem is to view it as a collection of smaller problems." (pg. 320)
+
+"Just like in small projects, start working on big projects by gathering features and requirements." (pg. 320)
+
+"Features are usually 'big' things that a system does, but also can be used interchangeably with the term 'requirements'." (pg. 320)
+
+"Commonality and variability give you points of comparison between a new system and things you already know about." (pg. 320)
+
+"Use cases are detail-oriented; use case diagrams are focused more on the big picture." (pg. 320)
+
+"Your use case diagram should account for all the features in your system." (pg. 320)
+
+"Domain analysis is representing a system in language that the customer will understand." (pg. 320)
+
+"An actor is anything that interacts with your system, but isn't part of the system." (pg. 320)
