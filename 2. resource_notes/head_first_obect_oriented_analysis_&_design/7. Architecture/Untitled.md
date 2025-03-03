@@ -64,3 +64,77 @@
 "Sometimes you don't have a complete requirements list and a bunch of use cases, but you still need to get some basic work done to see how a system is going to work. …using a scenario to get the basics of a module or piece of code down, so you can get the basic building blocks of your application in place." (pg. 343)
 
 "Scenarios help in gathering requirements, in being sure your use cases are complete, but also in architecture, helping you reduce the chaos and confusion around what a particular module or piece of code does." (pg. 343)
+
+"We could have used a use case to figure out the requirements, but remember, we're not trying to complete the module, as much as get the basic pieces together" (pg. 345)
+
+"If we got into too much detail, we might actually add risk to the project, by working on details that really aren't important at this stage of things." (pg. 345)
+
+"Use cases don't add risk when used at the right time. Right now, we've come up with some key features that could cause us headaches if we don't figure them out. We don't need anything perfect, we just need to get an understanding of how things work, so if there are any potential problem spots, we can catch them and avoid problems down the line." (pg. 345)
+
+"So at this point, the details you'd need to write a good use case are a bit of over kill." (pg. 345)
+
+"But once we've got the key features sketched out, and handled the major risks, we'll go back to each module and really start to add detail in. At that point, a use case is very helpful." (pg. 345)
+
+"We use a scenario to avoid getting into lots of unnecessary details. A scenario gives us lots of the advantages of a use case, without forcing us to get into lots of detail that we don't need to worry about right now." (pg. 345)
+
+"Focus on one feature at a time to reduce risk in your project." (pg. 349)
+
+"Don't get distracted with features that won't help reduce risk." (pg. 349)
+
+"Once you've handled your key features, and reduced or eliminated the big risks to your project, then you'll have plenty of time to work on other features. At this stage, though, you're trying to avoid spending time on anything that doesn't help you reduce the risks to your project succeeding." (pg. 349)
+
+"Build on what you've already got done whenever possible.-- When you've got nothing but requirements and diagrams, you've got to pick a place to start. But now that we do have some code and classes, it's easiest to pick another key feature that relates to what we've already built." (pg. 351)
+
+"Architecture is your design structure, and highlights the most important parts of your app, and the relationships between those parts.-- You really can't talk about the relationships between parts if you don't have at least two parts that have a relationship." (pg. 351)
+
+"Commonality also applies to smaller problems." (pg. 355)
+
+"Commonality is about more than just the names of properties... you need to look a little deeper.-- Let's take a step back from focusing on the actual names of the properties." (pg. 359)
+
+"Good design will always reduce risk. We can get it right the first time. We don't have to worry about the design drastically changing in the middle or near the end of the project's development cycle." (pg. 362)
+
+"We're focusing on doing just the things that reduce risk.-- Remember, the point of architecture is to reduce risk, and to create order. There are plenty of other things to work on in your application, but those are for after you've got a handle on how your application will be structured, and have the major risks reduced to the point where they are manageable." (pg. 363)
+
+"The question you need to be always asking at this stage of a project is, 'Will this reduce the risk to my project succeeding?' If the answer is yes, you should go ahead; if it's no, you probably can leave the task for a later stage of the project." (pg. 364)
+
+"You could just do a class diagram for all implementations. It's really a judgement call, and as long as you feel you're focusing on reducing the risk in your project, it's OK to stop with a class diagram, or take things a level or two deeper." (pg. 364)
+
+"It is good to ask the customer and users of a system about what it should do. It's usually a good idea to ask the customer, because it is their system that you're building. And really, the customer is only going to confuse you, or get you working on the wrong thing, if you're unsure of what you're supposed to be working on. As long as you go into a conversation clear on what your goals are, and you're listening for something specific, you should be able to filter out anything that might confuse or distract you." (pg. 364)
+
+"Tools like commonality and the three Qs of architecture are for you to come up with stuff like using a Map for storing properties. They help you get to solutions that you might not think of on your own, in a way that works on any type of project." (pg. 364)
+
+"OOA&D is all about code- it's about writing great software, every time. But the way you get to good code isn't always by siting down and writing it right away. Sometimes the best way to write great code is to hold off on writing code as long as you can. Plan, organize, architect, understand requirements, reduce risk... all these make the job of actually writing your code very simple." (pg. 364)
+
+"When you're not sure what a feature really means, one of the best things you can do is ask the customer." (pg. 366)
+
+"You can use these three basic steps anytime you're unsure about what a feature means, and how you need to implement that feature in your system.-- 1. Ask the customer: What does the feature mean? 2. Commonality analysis: How do I realize that feature in my system? 3. Implementation plan"(pg. 367)
+
+"When you find more things that are different about a feature than things that are the same, there may not be a good generic solution." (pg. 369)
+
+"You're job is to reduce risk and complexity, not increase it." (pg. 369)
+
+"Customers don't pay you for great code, they pay you for great software." (pg. 370)
+
+"Great software is more than just great code.-- Great code is well-designed, and generally functions like it's supposed to. But great software not only is well-designed, it comes in on time and does what the customer really wants it to do." (pg. 370)
+
+"That's what architecture is about: reducing risk of you delivering your software late, or having it not work like the customer wants it to. Our key feature list, class diagrams, and those partially done classes all help make sure we're not just developing great code, but that we're developing great software." (pg. 370)
+
+"Reducing risk helps you write great software." (pg. 371)
+
+"We don't have a lot of code, but we do have a project that we're confident we can deliver on time, with the right functionality." (pg. 371)
+
+"Architecture helps you turn all your diagrams, plans, and feature lists into a well-ordered application." (pg. 372)
+
+"The features in your system that are most important to the project are architecturally significant." (pg. 372)
+
+"Focus on features that are the essence of your system, that you're unsure about the meaning of, or unclear about how to implement first." (pg. 372)
+
+"Everything you do in the architectural stages of a project should reduce the risks of your project failing." (pg. 372)
+
+"If you don't need all the details of a use case, writing a scenario detailing how your software could be used can help you gather requirements quickly." (pg. 372)
+
+"When you're not sure what a feature is, you should ask the customer, and then try and generalize the answers you get into a good understanding of the feature." (pg. 372)
+
+"Use commonality analysis to build software solutions that are flexible." (pg. 372)
+
+"Customers are a lot more interested in software that does what they want, and comes in on time, than they are in code that you think is really cool." (pg. 372)
