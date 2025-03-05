@@ -178,3 +178,9 @@
 "Every object in your system should have a single responsibility, and all the object's services should be focused on carrying out that single responsibility (the SRP)" (pg. 418)
 
 "Subclasses should be suitable for their base classes (the LSP)" (pg. 418)
+
+"I let someone else do things for me: is a basic delegation definition, but a class that uses composition uses other classes for behavior, also." (pg. 420)
+
+"A subclass is the only class that changes another class's behavior." (pg. 420)
+
+"In aggregation and delegation, object instances are tied together, but not dependent on each other for their existence." (pg. 420)
