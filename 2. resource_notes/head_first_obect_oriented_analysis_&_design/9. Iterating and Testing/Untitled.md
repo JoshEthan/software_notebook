@@ -117,4 +117,88 @@
 2. Each test case should have one specific thing that it tests.-- Each of your test cases should be atomic: each should test only one piece of functionality at a time. This allows you to isolate exactly what piece of functionality might not be working in your application. One piece of functionality may involve one method, two methods, or even multiple classes... but to start with focus on very complete pieces of functionality, one at a time.
 3. Each test case should have an input you supply.-- You're going to give the test case a value, or a set of values, that it uses as the test data. This data is usually then used to execute some specific piece of functionality or behavior.
 4. Each test case should have an output that you expect.-- Given your input, what should the program, class, or method output? You'll compare the actual output of the program with your expected output, and if they match, then you've got a successful test, and your software works. This is what you want the program to output.
-5. Most test cases have a starting state.-- Do you need to open a database connection, or create a certain object, or set some values before running your test? If so, that's all part of the starting state of the test case, and needs to be handled before you run the actual test."
+5. Most test cases have a starting state.-- Do you need to open a database connection, or create a certain object, or set some values before running your test? If so, that's all part of the starting state of the test case, and needs to be handled before you run the actual test." (pg. 454)
+
+"Remember, we started out writing the tests so that we could prove to the customer that the software we've been writing actually will work." (pg. 456)
+
+"Our test cases let the customer see some code actually running, as well as help us find bugs in our code before we get too far along in our development cycle." (pg. 456)
+
+"When you're writing software, you're also creating a contract between that software and the people that use it. The contract details how the software will work when certain actions are taken." (pg. 461)
+
+"If the customer wants an action to result in different behavior, then you're changing the contract." (pg. 461)
+
+"When you program by contract, you and your software's users are agreeing that your software will behave in a certain way." (pg. 461)
+
+"Programming by contact is really about trust-- When you return null, you're trusting programmers to be able to deal with null return values. Programmers are basically saying that they've coded things well enough that they won't ask for non-existent properties, so their code doesn't worry about getting null values back."
+
+"And we can always change the contract if we need to... " (pg. 463)
+
+"But if you don't trust your users...-- But what happens if you don't think your code will be used correctly? Or if you think that certain actions are such a bad idea that you don't want to let users deal with them in their own way? In these cases, you may wan to consider defensive programming." (pg. 464)
+
+"Defensive programming assumes the worst, and tries to protect itself (and you) against misuse or bad data." (pg. 464)
+
+"...or if they don't trust you...-- they can program defensively too." (pg. 465)
+
+"It's really not important what kind of exception is thrown. What's important is how your customers and clients are involved in that decision. In programming by contract, you work with the client to agree on how you're going to handle problems; in defensive programming, you make that decision in a way that ensures your code doesn't crash, regardless of what the client wants to have happen." (pg. 465)
+
+"When we decided to switch from returning null to throwing an exception, we did that by listening to the client, and agreeing on that particular action as a response to a request for non-existent properties." (pg. 465)
+
+"We made the exception a RuntimeException, again because the client didn't want to add lots of try/catch blocks to their code. They could have just as easily asked for a checked exception, and we could have agreed- and still been programming by contract." (pg. 465)
+
+"Compare that to defensive programming, where we're not really that interested in what the client wants. In defensive programming, we're making sure that we aren't responsible for crashing a program, and we even go out of our way to try and prevent the client from crashing their program." (pg. 465)
+
+"When you are programming by contract, you're working with client code to agree on how you'll handle problem situations." (pg. 471)
+
+"When you're programming defensively, you're making sure the client gets a 'safe' response, no matter what the client wants to have happen." (pg. 471)
+
+"It's not a matter of being better or worse; it's a matter of what your customer wants. In fact, you'll rarely decide on your own if you want to do programming by contract or defensive programming. That's something that's usually determined by what your customer wants, and the types of users that will be using the software that you're writing." (pg. 471)
+
+"Break your apps into smaller chunks of functionality.-- So you're taking each problem, and then breaking it up (either into use cases or features), and then solving a part of the problem, over and over. Take a single feature and working on that feature until it's complete." (pg. 473)
+
+"But you can still break things up further...-- But once you choose a single feature or use case, you can usually break that feature up into even smaller pieces of behavior. Just like when you broke your app up and began to iterate, you'll have to do more analysis and design at each step. Always make sure your earlier decisions make sense, and change or rework those decisions if they don't." (pg. 473)
+
+"Your decisions can iterate down, too-- Lots of times you'll find that decisions you made earlier save you work down the line." (pg. 473)
+
+"The first step in writing good software is to make sure your application works like the customer expects and wants it to." (pg. 475)
+
+"Customers don't usually care about diagrams and lists; they want to see your software actually do something." (pg. 475)
+
+"Use case driven development focuses on one scenario in a use case in your application at a time." (pg. 475)
+
+"In use case driven development, you focus on a single scenario at a time, but you also usually code all the scenarios in a single use case before moving on to any other scenarios, in other use cases." (pg. 475)
+
+"Feature driven development allows you to code a complete feature before moving on to anything else." (pg. 475)
+
+"You can choose to work on either big or small features in feature-driven development, as long as you take each feature one at a time." (pg. 475)
+
+"Software development is always iterative. You look at the big picture, and then iterate down to smaller pieces of functionality." (pg. 475)
+
+"You have to do analysis and design at each step of your development cycle, including when you start working on a new feature or use case." (pg. 475)
+
+"Tests allow you to make sure your software doesn't have any bugs, and let you prove to your customer that your software works." (pg. 475)
+
+"A good test case only tests one specific piece of functionality." (pg. 475)
+
+"Test cases may involve only one, or several, methods in a single class, or may involve multiple classes." (pg. 475)
+
+"Test driven development is based on the idea that you write your tests first, and then develop software that passes those tests. The result is fully functional, working software." (pg. 475)
+
+"Programming by contract assumes both sides in a transaction understand what actions generate what behavior, and will abide by that contract." (pg. 475)
+
+"Methods usually return null or unchecked exceptions when errors occur in programming by contract environments." (pg. 475)
+
+"Defensive programming looks for things to go wrong, and tests extensively to avoid problem situations." (pg. 475)
+
+"Methods usually return 'empty' objects or throw checked exceptions in defensive programming environments." (pg. 475)
+
+"Programming by contract sets up an agreement about how your software behaves that you and users of your software agree to abide by." (pg. 478)
+
+"Defensive programming doesn't trust other software, and does extensive error and data checking to ensure the other software doesn't give you bad or unsafe information." (pg. 478)
+
+"Use case driven development takes a single use case in your system, and focuses on completing the code to implement that entire use case, including all of its scenarios, before moving on to anything else in the application." (pg. 478)
+
+"Feature driven development focuses on a single feature, and codes all the behavior of that feature, before moving on to anything else in the application." (pg. 478)
+
+"Test driven development writes test scenarios for a piece of functionality before writing the code for that functionality. Then you write software to pass all the tests." (pg. 478)
+
+"Good software development usually incorporates all of these development models at different stages of the development cycle." (pg. 478)
